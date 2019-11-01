@@ -5,3 +5,5 @@ A simple mod which enables Untitled Goose Game's cheat mode. This mod requires t
 ## Usage:
 - Press 'K' to disable/enable NPC's
 - Press 'PageUp/PageDown' to teleport around the map.
+
+Note that I may have missed some of the in-built cheat functionalities.
