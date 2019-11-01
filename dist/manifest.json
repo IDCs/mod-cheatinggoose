@@ -1,0 +1,7 @@
+{
+    "IsCheat": true,
+    "EntryPoint": "CheatingGoose::RunPatch",
+    "Id": "CheatingGoose",
+    "DisplayName": "You're a cheating goose",
+    "Author": "AGoose"
+}
